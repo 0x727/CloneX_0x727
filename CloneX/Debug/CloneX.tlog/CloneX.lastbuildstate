@@ -1,2 +1,2 @@
-#TargetFrameworkVersion=v4.0:PlatformToolSet=v142:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0
-Debug|Win32|G:\code\cppcode\CloneX\|
+PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.29.30037:VCServicingVersionMFC=14.29.30038:VCServicingVersionATL=14.29.30038:VCServicingVersionCrtHeaders=14.29.30038:VCServicingVersionCompilers=14.29.30038:TargetPlatformVersion=10.0.19041.0:
+Debug|Win32|H:\code\cppcode\CloneX_0x727\|

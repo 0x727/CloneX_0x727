@@ -1,4 +1,7 @@
 ﻿  CloneX.cpp
-G:\code\cppcode\CloneX\CloneX\CloneX.cpp(87,10): warning C4477:  “wprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD”
-G:\code\cppcode\CloneX\CloneX\CloneX.cpp(87,10): warning C4477:  “wprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“DWORD”
-  CloneX.vcxproj -> G:\code\cppcode\CloneX\Debug\CloneX.exe
+H:\code\cppcode\CloneX_0x727\CloneX\CloneX.cpp(95,10): warning C4477: “wprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD”
+H:\code\cppcode\CloneX_0x727\CloneX\CloneX.cpp(95,10): warning C4477: “wprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“DWORD”
+H:\code\cppcode\CloneX_0x727\CloneX\CloneX.cpp(222,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\code\cppcode\CloneX_0x727\CloneX\CloneX.cpp(227,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\code\cppcode\CloneX_0x727\CloneX\CloneX.cpp(333,3): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CloneX.vcxproj -> H:\code\cppcode\CloneX_0x727\Debug\CloneX.exe

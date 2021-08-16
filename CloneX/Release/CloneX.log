@@ -1,15 +1,15 @@
 ﻿  AclTool.cpp
   CloneX.cpp
-F:\code\cppcode\CloneX\CloneX\CloneX.cpp(87,10): warning C4477: “wprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD”
-F:\code\cppcode\CloneX\CloneX\CloneX.cpp(87,10): warning C4477: “wprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“DWORD”
-F:\code\cppcode\CloneX\CloneX\CloneX.cpp(214,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-F:\code\cppcode\CloneX\CloneX\CloneX.cpp(219,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-F:\code\cppcode\CloneX\CloneX\CloneX.cpp(325,3): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\code\cppcode\CloneX_0x727\CloneX\CloneX.cpp(95,10): warning C4477: “wprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD”
+H:\code\cppcode\CloneX_0x727\CloneX\CloneX.cpp(95,10): warning C4477: “wprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“DWORD”
+H:\code\cppcode\CloneX_0x727\CloneX\CloneX.cpp(222,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\code\cppcode\CloneX_0x727\CloneX\CloneX.cpp(227,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\code\cppcode\CloneX_0x727\CloneX\CloneX.cpp(333,3): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   ElevateTool.cpp
-F:\code\cppcode\CloneX\CloneX\ElevateTool.cpp(68,19): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+H:\code\cppcode\CloneX_0x727\CloneX\ElevateTool.cpp(68,19): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
   RegTool.cpp
   正在生成代码
   Previous IPDB not found, fall back to full compilation.
-  All 28 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 247 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   已完成代码的生成
-  CloneX.vcxproj -> F:\code\cppcode\CloneX\Release\CloneX.exe
+  CloneX.vcxproj -> H:\code\cppcode\CloneX_0x727\Release\CloneX.exe
