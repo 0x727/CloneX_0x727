@@ -1,0 +1,4 @@
+﻿  CloneX.cpp
+G:\code\cppcode\CloneX\CloneX\CloneX.cpp(87,10): warning C4477:  “wprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“DWORD”
+G:\code\cppcode\CloneX\CloneX\CloneX.cpp(87,10): warning C4477:  “wprintf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“DWORD”
+  CloneX.vcxproj -> G:\code\cppcode\CloneX\Debug\CloneX.exe
